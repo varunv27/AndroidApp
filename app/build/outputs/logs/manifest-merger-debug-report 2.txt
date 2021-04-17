@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/e2368cd11770fbe0ff685435d0e24d47/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/35623ee88e2adb4d7976444840758cea/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7027df7b4a78dc8dda2624994366d396/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5d32166436992a317a68ed11fb407936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/bab01d174160329b0a10c784613ad4e2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fcfeadfdc9f3863cec35a71d8f676908/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/10dcbd51d260ea5803445ae94e16fd8e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0858a7493d431be19f7fa1e7e2c963ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/6c32bce31851c14af5c47f9bdd8a2240/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/610091b17c4df3886938010c10bb2bd9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f63d7e15d24b09f88ea5b655a21d1a80/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2e5b6e658dc996e2d763f0089fdf67fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d199488f0af2144dbaa5fdbe6f79107a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/57130540fccff584b5004b23bb584820/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/87cac05de63a3e824f3c780d1cb7fd5c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fd9c082524cac8b10c2b9abbb84ca9f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d903c9795d1c8366b18fddc79ee405d9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/816b9615f23c14bb09d065aff5a1357b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5169789ed103e251296fbbc64165b8dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538932585dfe8151d024534998694e47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9f9d1efc375b425be68783deaeae617a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/06844fad678eed2442ccb0aa2ccd8b34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ac538e60d28480d4485ddb945b109484/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8c6eebc252e185423ee6c3580a458b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f169bca044092fd2da042a9baea72b52/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5c2a5065b34895f1b083622e678d36e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/53885d51160a832a571f8fbf3c9cdab7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2a3eafd017956b9dd4c7eb72bee783ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fb11c30ef1d6d0c328f6b422625ee5d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1ebb14e25ab8b35288712956a1d717f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/442695d11a6b20434f2ce96927258267/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f8dd570f0d0d3a6fbcca7a2f807565a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8aee1a281b87dfddcee86e7d5ae51f1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/240e0d8df45ac198410188f16cba8f57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/76ea4f54cb757d06f6823df78ec3a1f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/15ed592899a786496b8408d84cd0b484/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/732a90c3fed038bedde3b7115aaa2e14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8652911e36e4e0e938338ebab651f348/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8e5d52e178788b07c7c72eac34270dda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/4f0b97e4358e49f7a9544cb629f6d7fd/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/c92c3c5e9d83455e8a09306c74e81eac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0262a4e0774e7ca772195b8ad1f490a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a95e6b7474ee6c2290f4f405e25c3528/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/b56795a866b3718fb2827e66fe5d4913/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a693f994aec4a487e24adacadcc7f5f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/425632960c40e1bea5ec23088aace13b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9a1bcac729a5e04adbdeca84a0620256/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7f46fd9c840f62d108361eb1f80252e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538fcd46012fc9b77ec2009d66872295/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0a31c77a57c02f15758b7a85ec3afd3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1330ba9d9cd9bc2c4c6e975a0bc6c257/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/db6a18c2f5080273dfc0f3568fd72c73/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+	package
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:19:5-62
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:22:22-76
+application
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:23:5-45:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/bab01d174160329b0a10c784613ad4e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/bab01d174160329b0a10c784613ad4e2/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/10dcbd51d260ea5803445ae94e16fd8e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/10dcbd51d260ea5803445ae94e16fd8e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/6c32bce31851c14af5c47f9bdd8a2240/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/6c32bce31851c14af5c47f9bdd8a2240/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/57130540fccff584b5004b23bb584820/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/57130540fccff584b5004b23bb584820/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d903c9795d1c8366b18fddc79ee405d9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d903c9795d1c8366b18fddc79ee405d9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/816b9615f23c14bb09d065aff5a1357b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/816b9615f23c14bb09d065aff5a1357b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/4f0b97e4358e49f7a9544cb629f6d7fd/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/4f0b97e4358e49f7a9544cb629f6d7fd/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:31:9-48
+	android:roundIcon
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:29:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:30:9-44
+activity#com.example.android.archelon_sea_turtle_project.MainActivity
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:37:9-44:20
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:37:19-94
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/e2368cd11770fbe0ff685435d0e24d47/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/e2368cd11770fbe0ff685435d0e24d47/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/35623ee88e2adb4d7976444840758cea/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/35623ee88e2adb4d7976444840758cea/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7027df7b4a78dc8dda2624994366d396/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7027df7b4a78dc8dda2624994366d396/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5d32166436992a317a68ed11fb407936/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5d32166436992a317a68ed11fb407936/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/bab01d174160329b0a10c784613ad4e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/bab01d174160329b0a10c784613ad4e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fcfeadfdc9f3863cec35a71d8f676908/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fcfeadfdc9f3863cec35a71d8f676908/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/10dcbd51d260ea5803445ae94e16fd8e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/10dcbd51d260ea5803445ae94e16fd8e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0858a7493d431be19f7fa1e7e2c963ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0858a7493d431be19f7fa1e7e2c963ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/6c32bce31851c14af5c47f9bdd8a2240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/6c32bce31851c14af5c47f9bdd8a2240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/610091b17c4df3886938010c10bb2bd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/610091b17c4df3886938010c10bb2bd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f63d7e15d24b09f88ea5b655a21d1a80/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f63d7e15d24b09f88ea5b655a21d1a80/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2e5b6e658dc996e2d763f0089fdf67fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2e5b6e658dc996e2d763f0089fdf67fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d199488f0af2144dbaa5fdbe6f79107a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d199488f0af2144dbaa5fdbe6f79107a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/57130540fccff584b5004b23bb584820/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/57130540fccff584b5004b23bb584820/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/87cac05de63a3e824f3c780d1cb7fd5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/87cac05de63a3e824f3c780d1cb7fd5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fd9c082524cac8b10c2b9abbb84ca9f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fd9c082524cac8b10c2b9abbb84ca9f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d903c9795d1c8366b18fddc79ee405d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/d903c9795d1c8366b18fddc79ee405d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/816b9615f23c14bb09d065aff5a1357b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/816b9615f23c14bb09d065aff5a1357b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5169789ed103e251296fbbc64165b8dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5169789ed103e251296fbbc64165b8dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538932585dfe8151d024534998694e47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538932585dfe8151d024534998694e47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9f9d1efc375b425be68783deaeae617a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9f9d1efc375b425be68783deaeae617a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/06844fad678eed2442ccb0aa2ccd8b34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/06844fad678eed2442ccb0aa2ccd8b34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ac538e60d28480d4485ddb945b109484/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ac538e60d28480d4485ddb945b109484/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8c6eebc252e185423ee6c3580a458b6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8c6eebc252e185423ee6c3580a458b6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f169bca044092fd2da042a9baea72b52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f169bca044092fd2da042a9baea72b52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5c2a5065b34895f1b083622e678d36e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/5c2a5065b34895f1b083622e678d36e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/53885d51160a832a571f8fbf3c9cdab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/53885d51160a832a571f8fbf3c9cdab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2a3eafd017956b9dd4c7eb72bee783ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/2a3eafd017956b9dd4c7eb72bee783ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fb11c30ef1d6d0c328f6b422625ee5d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/fb11c30ef1d6d0c328f6b422625ee5d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1ebb14e25ab8b35288712956a1d717f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1ebb14e25ab8b35288712956a1d717f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/442695d11a6b20434f2ce96927258267/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/442695d11a6b20434f2ce96927258267/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f8dd570f0d0d3a6fbcca7a2f807565a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/f8dd570f0d0d3a6fbcca7a2f807565a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8aee1a281b87dfddcee86e7d5ae51f1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8aee1a281b87dfddcee86e7d5ae51f1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/240e0d8df45ac198410188f16cba8f57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/240e0d8df45ac198410188f16cba8f57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/76ea4f54cb757d06f6823df78ec3a1f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/76ea4f54cb757d06f6823df78ec3a1f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/15ed592899a786496b8408d84cd0b484/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/15ed592899a786496b8408d84cd0b484/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/732a90c3fed038bedde3b7115aaa2e14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/732a90c3fed038bedde3b7115aaa2e14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8652911e36e4e0e938338ebab651f348/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8652911e36e4e0e938338ebab651f348/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/3674571b90a5dcb058cc3eb875def016/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8e5d52e178788b07c7c72eac34270dda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/8e5d52e178788b07c7c72eac34270dda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/4f0b97e4358e49f7a9544cb629f6d7fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/4f0b97e4358e49f7a9544cb629f6d7fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/c92c3c5e9d83455e8a09306c74e81eac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/c92c3c5e9d83455e8a09306c74e81eac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0262a4e0774e7ca772195b8ad1f490a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0262a4e0774e7ca772195b8ad1f490a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a95e6b7474ee6c2290f4f405e25c3528/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a95e6b7474ee6c2290f4f405e25c3528/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/b56795a866b3718fb2827e66fe5d4913/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/b56795a866b3718fb2827e66fe5d4913/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a693f994aec4a487e24adacadcc7f5f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a693f994aec4a487e24adacadcc7f5f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/425632960c40e1bea5ec23088aace13b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/425632960c40e1bea5ec23088aace13b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9a1bcac729a5e04adbdeca84a0620256/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/9a1bcac729a5e04adbdeca84a0620256/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7f46fd9c840f62d108361eb1f80252e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/7f46fd9c840f62d108361eb1f80252e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538fcd46012fc9b77ec2009d66872295/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/538fcd46012fc9b77ec2009d66872295/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0a31c77a57c02f15758b7a85ec3afd3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/0a31c77a57c02f15758b7a85ec3afd3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1330ba9d9cd9bc2c4c6e975a0bc6c257/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/1330ba9d9cd9bc2c4c6e975a0bc6c257/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/db6a18c2f5080273dfc0f3568fd72c73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/db6a18c2f5080273dfc0f3568fd72c73/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallysu/Desktop/Archelon_Android_App_Survey_Part_2/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/a1762839f07613be107b0f280180d56f/AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/ae25d00904df266311b10f1a3c4a6071/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/mallysu/.gradle/caches/transforms-2/files-2.1/be8d58aed39867555342ec739de9e92b/AndroidManifest.xml:24:13-58

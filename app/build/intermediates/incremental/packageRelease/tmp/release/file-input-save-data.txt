@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jan 10 17:39:15 GMT 2021
+1.base=/Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/build/intermediates/transforms/dexMerger/release/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/build/intermediates/transforms/dexMerger/release/0
+1.path=classes2.dex

@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0ec18f592a344f73925f8ae150a434a2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d36a2e661d5e8e946ecd67b22fdf5e8f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f63d8ea81d76aead0e744ecea5eddca7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/029ed67e53bd4016a637e3018cb79ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0c07918a980e2eae3bb03322b5034401/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/varun/.gradle/caches/transforms-2/files-2.1/5f160da5b98e88c1ad27263dd1393d91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/varun/.gradle/caches/transforms-2/files-2.1/6ac9a8c7430f0ba03da4e0f3457a3167/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92cf178ba2faed421cec54eeca0676d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d029059255084cb539021fed192aabf4/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/546c86cc7084eabbd37e295f94422bb3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/93c751ea26fa3119f102da06f5c6ba6d/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e04df656d48e6ea20c4999dd0beac896/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5cd0acf09eb11840403ce57e2d4d5166/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/270836e83d82d80fed74041e985c0f0e/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78977d9bc38bf13a6955796ea552fc34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/54fcda5b151ef4613e28c8a8d79647cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5629f23e96926ef60e5395c874038d00/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/115c32762e2d9fea4e18cab9591d6c21/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f91792317067225eb5a7e2d7673f2860/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/3decd2dcdfff738a2a85fd9ac6e7e070/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4a0b67e25a81b68540409dad1e134da9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/af6a6c8ba9367a81f79469e09eb3028a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/750f9b2d7e3d0c7522bd5cb793192e3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/7c10789267788a32f71acbf5567a5f20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/c780b8f6cb75da8469444de3aaeb6ab8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/a13046e9b5bb06c5f64ddb630a29b579/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78db31b3d972f3b627e5f526c1d9bb0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/ab7acad20ccd13268a1b99963a7ed043/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f58df852e9259951d7072f4c8e1bf29e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f49c5e425390a0496517a82fe173f0e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0e87c71df05840fd54a8d262174a0e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5707b01d5e151f9fbe8835bff52a4c23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b6f0a7ebcaa8d99d423eee4d46c041d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0da7538de41d49d63b0ecf4e788d0f19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/bda5cc49e8616e7401c76398dbca72de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4bd03f19e2ca3091b1f41abc0767fda7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d1525045d982c70b73a8b4bb1c191d4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/285c58b9d532a9ee84fc668ee016f315/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/2b1107b14a50d5715612de759f9974b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/73bde17c85e670a7646f6175eb024039/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b69495dd988e728bbb2972b06d90d6fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/74185dea8d1119e9478d081b247003f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/6724669d96304993678bbe19f99f66b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5b8419171f38e29cfc74270dbb9fea27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/1897e29ccbf87dfbd3db4e1e602a43ce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/652c6e06ec4689354548f790bfc31c8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/31fb93772ac52bf4febdd1b7e90f0591/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/a40d549178e83f04739acfdd056f8db3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e7ba1331236b82afa986136ecc2e8e58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b0362408a2f15a1ac1395d157b531a41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/20a6c0c5b14ca974618c6f0baf54dd80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/57f0216e4445fc467b92adda8a1a4051/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+	package
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:19:5-62
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:22:22-76
+application
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:23:5-45:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0c07918a980e2eae3bb03322b5034401/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0c07918a980e2eae3bb03322b5034401/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/varun/.gradle/caches/transforms-2/files-2.1/6ac9a8c7430f0ba03da4e0f3457a3167/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/varun/.gradle/caches/transforms-2/files-2.1/6ac9a8c7430f0ba03da4e0f3457a3167/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d029059255084cb539021fed192aabf4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d029059255084cb539021fed192aabf4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/270836e83d82d80fed74041e985c0f0e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/270836e83d82d80fed74041e985c0f0e/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5629f23e96926ef60e5395c874038d00/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5629f23e96926ef60e5395c874038d00/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/115c32762e2d9fea4e18cab9591d6c21/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/115c32762e2d9fea4e18cab9591d6c21/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/73bde17c85e670a7646f6175eb024039/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/73bde17c85e670a7646f6175eb024039/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:31:9-48
+	android:roundIcon
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:29:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:30:9-44
+activity#com.example.android.archelon_sea_turtle_project.MainActivity
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:37:9-44:20
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:37:19-94
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0ec18f592a344f73925f8ae150a434a2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0ec18f592a344f73925f8ae150a434a2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d36a2e661d5e8e946ecd67b22fdf5e8f/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d36a2e661d5e8e946ecd67b22fdf5e8f/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f63d8ea81d76aead0e744ecea5eddca7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f63d8ea81d76aead0e744ecea5eddca7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/029ed67e53bd4016a637e3018cb79ee9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/029ed67e53bd4016a637e3018cb79ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0c07918a980e2eae3bb03322b5034401/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0c07918a980e2eae3bb03322b5034401/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/varun/.gradle/caches/transforms-2/files-2.1/5f160da5b98e88c1ad27263dd1393d91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/varun/.gradle/caches/transforms-2/files-2.1/5f160da5b98e88c1ad27263dd1393d91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/varun/.gradle/caches/transforms-2/files-2.1/6ac9a8c7430f0ba03da4e0f3457a3167/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/varun/.gradle/caches/transforms-2/files-2.1/6ac9a8c7430f0ba03da4e0f3457a3167/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92cf178ba2faed421cec54eeca0676d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92cf178ba2faed421cec54eeca0676d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d029059255084cb539021fed192aabf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d029059255084cb539021fed192aabf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/546c86cc7084eabbd37e295f94422bb3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/546c86cc7084eabbd37e295f94422bb3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/93c751ea26fa3119f102da06f5c6ba6d/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/93c751ea26fa3119f102da06f5c6ba6d/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e04df656d48e6ea20c4999dd0beac896/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e04df656d48e6ea20c4999dd0beac896/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5cd0acf09eb11840403ce57e2d4d5166/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5cd0acf09eb11840403ce57e2d4d5166/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/270836e83d82d80fed74041e985c0f0e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/270836e83d82d80fed74041e985c0f0e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78977d9bc38bf13a6955796ea552fc34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78977d9bc38bf13a6955796ea552fc34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/54fcda5b151ef4613e28c8a8d79647cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/54fcda5b151ef4613e28c8a8d79647cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5629f23e96926ef60e5395c874038d00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5629f23e96926ef60e5395c874038d00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/115c32762e2d9fea4e18cab9591d6c21/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/115c32762e2d9fea4e18cab9591d6c21/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f91792317067225eb5a7e2d7673f2860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f91792317067225eb5a7e2d7673f2860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/3decd2dcdfff738a2a85fd9ac6e7e070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/3decd2dcdfff738a2a85fd9ac6e7e070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4a0b67e25a81b68540409dad1e134da9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4a0b67e25a81b68540409dad1e134da9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/af6a6c8ba9367a81f79469e09eb3028a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/af6a6c8ba9367a81f79469e09eb3028a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/750f9b2d7e3d0c7522bd5cb793192e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/750f9b2d7e3d0c7522bd5cb793192e3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/7c10789267788a32f71acbf5567a5f20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/7c10789267788a32f71acbf5567a5f20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/c780b8f6cb75da8469444de3aaeb6ab8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/c780b8f6cb75da8469444de3aaeb6ab8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/a13046e9b5bb06c5f64ddb630a29b579/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/varun/.gradle/caches/transforms-2/files-2.1/a13046e9b5bb06c5f64ddb630a29b579/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78db31b3d972f3b627e5f526c1d9bb0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/78db31b3d972f3b627e5f526c1d9bb0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/ab7acad20ccd13268a1b99963a7ed043/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/ab7acad20ccd13268a1b99963a7ed043/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f58df852e9259951d7072f4c8e1bf29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f58df852e9259951d7072f4c8e1bf29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f49c5e425390a0496517a82fe173f0e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/f49c5e425390a0496517a82fe173f0e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0e87c71df05840fd54a8d262174a0e4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0e87c71df05840fd54a8d262174a0e4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5707b01d5e151f9fbe8835bff52a4c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5707b01d5e151f9fbe8835bff52a4c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b6f0a7ebcaa8d99d423eee4d46c041d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b6f0a7ebcaa8d99d423eee4d46c041d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0da7538de41d49d63b0ecf4e788d0f19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0da7538de41d49d63b0ecf4e788d0f19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/bda5cc49e8616e7401c76398dbca72de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/bda5cc49e8616e7401c76398dbca72de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4bd03f19e2ca3091b1f41abc0767fda7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4bd03f19e2ca3091b1f41abc0767fda7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d1525045d982c70b73a8b4bb1c191d4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/d1525045d982c70b73a8b4bb1c191d4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/285c58b9d532a9ee84fc668ee016f315/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/285c58b9d532a9ee84fc668ee016f315/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/4462e41c103e4e263f39b4f2a4d12201/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/2b1107b14a50d5715612de759f9974b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/2b1107b14a50d5715612de759f9974b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/73bde17c85e670a7646f6175eb024039/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/73bde17c85e670a7646f6175eb024039/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b69495dd988e728bbb2972b06d90d6fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b69495dd988e728bbb2972b06d90d6fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/74185dea8d1119e9478d081b247003f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/74185dea8d1119e9478d081b247003f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/6724669d96304993678bbe19f99f66b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/6724669d96304993678bbe19f99f66b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5b8419171f38e29cfc74270dbb9fea27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/5b8419171f38e29cfc74270dbb9fea27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/1897e29ccbf87dfbd3db4e1e602a43ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/1897e29ccbf87dfbd3db4e1e602a43ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/652c6e06ec4689354548f790bfc31c8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/652c6e06ec4689354548f790bfc31c8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/31fb93772ac52bf4febdd1b7e90f0591/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/31fb93772ac52bf4febdd1b7e90f0591/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/a40d549178e83f04739acfdd056f8db3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/a40d549178e83f04739acfdd056f8db3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e7ba1331236b82afa986136ecc2e8e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/e7ba1331236b82afa986136ecc2e8e58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b0362408a2f15a1ac1395d157b531a41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/b0362408a2f15a1ac1395d157b531a41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/20a6c0c5b14ca974618c6f0baf54dd80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/20a6c0c5b14ca974618c6f0baf54dd80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/57f0216e4445fc467b92adda8a1a4051/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/57f0216e4445fc467b92adda8a1a4051/AndroidManifest.xml:20:5-44
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		ADDED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/varun/Desktop/MCIoT_Assingment_FOLDER/android-coursework-varunv27/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/0d83448e8e3e906ec0ae7adc6bc39d62/AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/44da4031b333737e3a559bbb02909441/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/varun/.gradle/caches/transforms-2/files-2.1/92a96a4426bd8bc01d1d024cc8c3888e/AndroidManifest.xml:24:13-58

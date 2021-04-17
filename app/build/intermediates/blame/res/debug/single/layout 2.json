@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/survey_start_fragment.xml",
+        "source": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/src/main/res/layout/survey_start_fragment.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_fragment.xml",
+        "source": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/src/main/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/options_fragment.xml",
+        "source": "/Users/varun/Desktop/Mallya_Commits/Archelon_Android_App_Survey-36dde6bf6a78f5ed5398370ca3cf7920afe3ddb8/app/src/main/res/layout/options_fragment.xml"
+    }
+]
